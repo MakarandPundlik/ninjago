@@ -1,0 +1,11 @@
+	{
+	"name":"Maku",
+    	"age":20,
+    	"belt":"black",
+    	"availability":true,
+   	 "geometry":
+	{
+ 	"type":"point",
+    	"coordinates":[13.5.13.5]
+	}
+	}
